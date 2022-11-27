@@ -1,0 +1,212 @@
+$schema: vscode://schemas/color-theme
+author: Lucas de Ataides
+name: Chevalier
+colorSpaceName: sRGB
+semanticClass: theme.dark.chevalier
+maintainers:
+- Lucas de Ataides <lucasatab@gmail.com>
+
+tokenColors:
+
+# --------------------------------------------------
+# Variables & Parameters
+# --------------------------------------------------
+- scope: 
+  - variable
+  - constant
+  - constant.other
+  - constant.character.escape
+  settings:
+    foreground: _light-leather
+- scope: 
+  - variable.parameter
+  - variable.parameter.function.language.special
+  settings:
+    foreground: _light-leather
+    fontStyle: italic
+- scope: 
+  - meta.function.parameter
+  - meta.attribute
+  settings:
+    foreground: _light-leather
+- scope: 
+  - variable.other.constant
+  - variable.language.this
+  - variable.interpolation
+  settings:
+    foreground: _lightest-leather
+
+# --------------------------------------------------
+# Functions
+# --------------------------------------------------
+- scope: 
+  - entity.name.function
+  - meta.require
+  - support.function.any-method
+  - support.function
+  - support.function.construct
+  settings:
+    foreground: _green
+- scope: meta.function-call
+  settings:
+    foreground: _cyan
+
+# --------------------------------------------------
+# Classes & Objects
+# --------------------------------------------------
+
+- scope: 
+  - variable.other.object
+  - support.class
+  - support.type
+  - entity.name
+  - entity.name.class
+  - entity.name.class.type
+  - variable.other.property
+  settings:
+      foreground: _cyan
+
+# --------------------------------------------------
+# Keywords
+# --------------------------------------------------
+- scope:
+  - keyword
+  - keyword.control
+  - keyword.operator
+  - keyword.operator.new
+  settings:
+    foreground: _blue
+- scope:
+  - keyword.operator.logical
+  - keyword.operator.comparison
+  - keyword.operator.misc
+  - keyword.operator.sigil
+  settings:
+    foreground: _pink
+
+# --------------------------------------------------
+# Comments
+# --------------------------------------------------
+- scope:
+  - comment
+  - comment.block
+  - comment.line
+  - string.quoted.docstring
+  settings:
+    foreground: _light-steel
+    fontStyle: italic
+
+# --------------------------------------------------
+# Numbers
+# --------------------------------------------------
+- scope:
+  - constant.numeric
+  - constant.numeric.float
+  - constant.numeric.octal
+  settings:
+    foreground: _cyan
+
+# --------------------------------------------------
+# Types
+# --------------------------------------------------
+- scope: entity.name.type
+  settings:
+    foreground: _green
+    fontStyle: italic
+
+# --------------------------------------------------
+# Strings
+# --------------------------------------------------
+- scope: string
+  settings:
+    foreground: _light-gray
+
+# --------------------------------------------------
+# Invalid
+# --------------------------------------------------
+- scope: invalid.illegal
+  settings:
+    foreground: _red
+- scope: invalid.deprecated
+  settings:
+    foreground: _dark-gray
+
+# --------------------------------------------------
+# Punctuation
+# --------------------------------------------------
+- scope: punctuation.definition.template-expression
+  settings:
+    foreground: _orange
+- scope: 
+  - punctuation.separator
+  - punctuation.definition.separator
+  - punctuation.definition.string
+  settings:
+    foreground: _cyan
+- scope: punctuation.definition.arguments
+  settings:
+    foreground: _pink 
+
+# --------------------------------------------------
+# Support
+# --------------------------------------------------
+- scope:
+  - support
+  - support.class
+  - support.function
+  settings:
+    foreground: _orange
+
+# --------------------------------------------------
+# Entities
+# --------------------------------------------------
+- scope: entity.other.inherited-class
+  settings:
+    foreground: _blue
+- scope: entity.name.tag.yaml
+  settings:
+    foreground: _yellow
+
+# --------------------------------------------------
+# Storage
+# --------------------------------------------------
+- scope: storage
+  settings:
+    foreground: _blue
+
+# --------------------------------------------------
+# Links
+# --------------------------------------------------
+- scope:
+  - string.other.link
+  - meta.link
+  settings:
+    foreground: _link
+
+# --------------------------------------------------
+# Regex
+# --------------------------------------------------
+- scope:
+  - string.regexp
+  settings:
+    foreground: _gray
+    fontStyle: italic
+- scope: string.regexp keyword.operator
+  settings:
+    foreground: _white
+
+# --------------------------------------------------
+# Tokens
+# --------------------------------------------------
+- scope: token.info-token
+  settings:
+    foreground: _info
+- scope: token.debug-token
+  settings:
+    foreground: _debug
+- scope: token.warn-token
+  settings:
+    foreground: _warning
+- scope: token.error-token
+  settings:
+    foreground: _error

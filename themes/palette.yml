@@ -1,0 +1,74 @@
+# --------------------------------------------------
+# Chevalier's color palette
+# --------------------------------------------------
+
+# Basic
+_background: "#2e3440"
+_foreground: "#d9d9d9"
+_editor-background: "#20242c"
+
+# Gray scale
+_white: "#EFEFE8"
+_light-gray: "#CDCDCD"
+_gray: "#BBBBBB"
+_dark-gray: "#757575"
+_light-steel: "#676B79"
+_steel: "#3E4250"
+_dark-steel: "#373B41"
+_light-charcoal: "#2A2C2D"
+_charcoal: "#222223"
+_dark-charcoal: "#0D0D0D"
+
+# Gray scale with opacity
+_white-10: "#EFEFE810"
+_gray-20: "#BBBBBB20"
+_gray-40: "#BBBBBB40"
+_steel-50: "#3E425050"
+
+# Brown scale
+_lightest-leather: "#D99B7C"
+_light-leather: "#C6733D"
+_leather: "#97572B"
+_dark-leather: "#864C24"
+_darkest-leather: "#704822"
+
+# Brown scale opacity
+_leather-15: "#97572B15"
+_leather-20: "#97572B20"
+_leather-25: "#97572B25"
+_leather-40: "#97572B40"
+
+# Colors
+_red: "#A6343A"
+_green: "#9CCF65"
+_blue: "#4B81BF"
+_cyan: "#52ACAA"
+_orange: "#FF911F"
+_pink: "#CE3D66"
+_purple: "#6F54A1"
+_yellow: "#FFF367"
+
+# Colors with opacity
+_purple-15: "#6F54A115"
+_purple-20: "#6F54A120"
+_purple-40: "#6F54A140"
+
+# Color shades
+_dark-purple: "#524079"
+
+# Specific elements
+_link: "#007CB8"
+_info: "#EDF1FF"
+_debug: "#5085C3"
+_warning: "#F96815"
+_error: "#D02D23"
+_diff-green: "#008C4E70"
+_diff-red: "#A42A2E60"
+_git-added: "#008C4E"
+_git-modified: "#F7B718"
+_git-removed: "#A42A2E"
+_git-ignored: "#857D78"
+_merge-current-header: '#6F54A190'
+_merge-current-content: '#6F54A140'
+_merge-incoming-header: '#FF911F90'
+_merge-incoming-content: '#FF911F'

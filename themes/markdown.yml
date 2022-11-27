@@ -1,0 +1,72 @@
+# Bold
+- scope: markup.bold
+  settings:
+    fontStyle: bold
+    foreground: _light-gray
+- scope: punctuation.definition.bold.markdown
+  settings:
+    fontStyle: bold
+    foreground: _light-gray
+
+# Italic
+- scope: markup.italic
+  settings:
+    fontStyle: italic
+- scope: punctuation.definition.italic.markdown
+  settings:
+    fontStyle: italic
+
+# Markup
+- scope: markup.inserted
+  settings:
+    foreground: _git-added
+- scope: markup.changed
+  settings:
+    foreground: _git-modified
+- scope: markup.deleted
+  settings:
+    foreground: _git-removed
+
+# Headings Text
+- scope: entity.name.section.markdown
+  settings:
+    foreground: _lightest-leather
+    fontStyle: bold
+
+# Headings Punctuation
+- scope: punctuation.definition.heading
+  settings:
+    foreground: _gray
+
+# Code quotes
+- scope: 
+  - markup.quote
+  - markup.inline.raw
+  settings:
+    foreground: _orange
+    fontStyle: italic
+
+# List punctuation
+- scope: beginning.punctuation.definition.list
+  settings:
+    foreground: _green
+
+# Code blocks
+- scope:
+  - markup.fenced_code.block.markdown
+  - punctuation.definition.markdown
+  settings:
+    foreground: _light-leather
+- scope: fenced_code.block.language
+  settings:
+    foreground: _light-leather
+    fontStyle: italic
+
+# Links
+- scope:
+  - string.other.link
+  - meta.link.inline.markdown
+  - punctuation.definition.string
+  settings:
+    foreground: _link
+    fontStyle: italic

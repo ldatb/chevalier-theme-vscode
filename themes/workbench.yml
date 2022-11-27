@@ -1,0 +1,173 @@
+colors:
+  # -----------------------------------------------------------------------------
+  # Base Colors
+  # -----------------------------------------------------------------------------
+  foreground: _light-steel
+  errorForeground: _red
+  focusBorder: _darkest-leather
+
+  # -----------------------------------------------------------------------------
+  # Activity Bar
+  # -----------------------------------------------------------------------------
+  activityBar.background: _editor-background
+  activityBar.foreground: _light-gray
+  activityBarBadge.background: _cyan
+  activityBarBadge.foreground: _charcoal
+
+  # -----------------------------------------------------------------------------
+  # Badges
+  # -----------------------------------------------------------------------------
+  badge.background: _leather
+  badge.foreground: _background
+
+  # -----------------------------------------------------------------------------
+  # ProgressBar
+  # -----------------------------------------------------------------------------
+  progressBar.background: _lightest-leather
+
+  # -----------------------------------------------------------------------------
+  # Buttons
+  # -----------------------------------------------------------------------------
+  button.background: _leather-20
+  button.foreground: _white
+  button.hoverBackground: _leather-40
+  
+  # -----------------------------------------------------------------------------
+  # Diff
+  # -----------------------------------------------------------------------------
+  diffEditor.insertedTextBackground: _diff-green
+  diffEditor.removedTextBackground: _diff-red
+
+  # -----------------------------------------------------------------------------
+  # Merge Conflicts
+  # -----------------------------------------------------------------------------
+  merge.currentHeaderBackground: _merge-current-header
+  merge.currentContentBackground: _merge-current-content
+  merge.incomingHeaderBackground: _merge-incoming-header
+  merge.incomingContentBackground: _merge-incoming-content
+
+  # -----------------------------------------------------------------------------
+  # Editor
+  # -----------------------------------------------------------------------------
+  editor.background: _editor-background
+  editor.foreground: _foreground
+  editorCursor.foreground: _white
+  editorRuler.foreground: _leather
+  editorWhitespace.foreground: _dark-steel
+  editor.selectionBackground: _gray-20
+  editor.inactiveSelectionBackground: _gray-40
+  editor.selectionHighlightBackground: _white-10
+  editor.wordHighlightBackground: _leather-20
+  editor.wordHighlightStrongBackground: _leather-40
+  editor.findMatchBackground: _leather-20
+  editor.findMatchHighlightBackground: _leather-40
+  editor.lineHighlightBackground: _steel-50
+
+  # -----------------------------------------------------------------------------
+  # Widgets
+  # -----------------------------------------------------------------------------
+  editorWidget.background: _dark-steel
+  editorWidget.foreground: _gray
+  editorHoverWidget.background: _steel
+  editorHoverWidget.foreground: _gray
+
+  # -----------------------------------------------------------------------------
+  # Overview Ruler
+  # -----------------------------------------------------------------------------
+  editorOverviewRuler.border: _charcoal
+  editorOverviewRuler.modifiedForeground: _git-modified
+  editorOverviewRuler.addedForeground: _git-added
+  editorOverviewRuler.deletedForeground: _git-removed
+  editorOverviewRuler.errorForeground: _error
+  editorOverviewRuler.warningForeground: _warning
+  editorOverviewRuler.infoForeground: _info
+
+  # -----------------------------------------------------------------------------
+  # Extensions
+  # -----------------------------------------------------------------------------
+  extensionButton.prominentBackground: _leather
+  extensionButton.prominentForeground: _light-charcoal
+  extensionButton.prominentHoverBackground: _dark-leather
+
+  # -----------------------------------------------------------------------------
+  # Errors
+  # -----------------------------------------------------------------------------
+  editorError.foreground: _error
+  editorError.border: _background
+  editorWarning.foreground: _warning
+  editorWarning.border: _background
+
+  # -----------------------------------------------------------------------------
+  # Git
+  # -----------------------------------------------------------------------------
+  editorGutter.modifiedBackground: _git-modified
+  editorGutter.addedBackground: _git-added
+  editorGutter.deletedBackground: _git-removed
+  gitDecoration.ignoredResourceForeground: _light-steel
+
+  # -----------------------------------------------------------------------------
+  # List
+  # -----------------------------------------------------------------------------
+  list.hoverBackground: _steel
+  list.hoverForeground: _gray
+  list.focusBackground: _dark-steel
+  list.focusForeground: _gray
+  list.activeSelectionBackground: _leather-25
+  list.activeSelectionForeground: _light-gray
+  list.inactiveSelectionBackground: _leather-15
+  list.inactiveSelectionForeground: _light-gray
+  list.highlightForeground: _light-leather
+
+  # -----------------------------------------------------------------------------
+  # Sidebar
+  # -----------------------------------------------------------------------------
+  sideBar.background: _background 
+  sideBar.foreground: _gray
+
+  # -----------------------------------------------------------------------------
+  # Scrollbar
+  # -----------------------------------------------------------------------------
+  scrollbar.shadow: _charcoal
+  scrollbarSlider.background: _steel
+  scrollbarSlider.activeBackground: _dark-gray
+  scrollbarSlider.hoverBackground: _light-steel
+
+  # -----------------------------------------------------------------------------
+  # Status Bar
+  # -----------------------------------------------------------------------------
+  statusBar.background: _charcoal
+  statusBar.foreground: _dark-gray
+  statusBar.noFolderBackground: _dark-charcoal
+  statusBar.noFolderForeground: _dark-gray
+  statusBar.debuggingBackground: _leather
+  statusBar.debuggingForeground: _dark-gray
+
+  # -----------------------------------------------------------------------------
+  # Title Bar
+  # -----------------------------------------------------------------------------
+  titleBar.activeBackground: _background
+  titleBar.activeForeground: _foreground
+  titleBar.inactiveBackground: _background
+  titleBar.inactiveForeground: _foreground
+
+  # -----------------------------------------------------------------------------
+  # Tabs
+  # -----------------------------------------------------------------------------
+  tab.activeBackground: _dark-steel
+  tab.activeForeground: _light-gray
+  tab.activeBorder: _leather
+  tab.inactiveBackground: _charcoal
+  tab.inactiveForeground: _light-steel
+
+  # -----------------------------------------------------------------------------
+  # Terminal
+  # -----------------------------------------------------------------------------
+  terminalCursor.background: _background
+  terminalCursor.foreground: _foreground
+  terminal.ansiWhite: _white
+  terminal.ansiBlue: _blue
+  terminal.ansiCyan: _cyan
+  terminal.ansiGreen: _green
+  terminal.ansiMagenta: _leather
+  terminal.ansiRed: _red
+  terminal.ansiYellow: _yellow
