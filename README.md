@@ -2,7 +2,7 @@
 
 ![Chevalier Logo](https://cdn.jsdelivr.net/gh/ldatb/chevalier-theme-vscode@master/assets/chevalier.png)
 
-A simple, elegant and beautiful theme for [Visual Studio Code](https://code.visualstudio.com/)
+A simple, elegant and beautiful theme for [Visual Studio Code](https://code.visualstudio.com/). Inspired on leather, nature, and of course, horses.
 
 ![Chevalier Example](https://cdn.jsdelivr.net/gh/ldatb/chevalier-theme-vscode@master/assets/chevalier-example.png)
 
@@ -59,3 +59,15 @@ These languages are already on the roadmap:
 
 ## Other portings of Chevalier
 None yet :(
+
+## Fun Facts About Horses
+1. Horses can’t breathe through their mouth
+2. Horses sleep standing up
+3. Horses have lightning fast reflexes
+4. Horses have 10 different muscles in their ears
+5. Horses have a nearly 360 degree field of vision
+6. Horses do not have teeth in the middle of their mouth
+7. Horses are highly intelligent animals
+8. The earliest ancestor of the horse is estimated to have lived 55 million years ago (and it was the size of a Golden Retriever)
+9. Horses have a fixed pelvis, so they cannot do the splits
+10. Horses are very social animals
