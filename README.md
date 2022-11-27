@@ -1,10 +1,10 @@
 # Chevalier theme for VS Code
 
-![Chevalier Logo](https://cdn.jsdelivr.net/gh/ldatb/chevalier-vscode-theme@master/assets/chevalier.png)
+![Chevalier Logo](https://cdn.jsdelivr.net/gh/ldatb/chevalier-theme-vscode@master/assets/chevalier.png)
 
 A simple, elegant and beautiful theme for [Visual Studio Code](https://code.visualstudio.com/)
 
-![Chevalier Example](https://cdn.jsdelivr.net/gh/ldatb/chevalier-vscode-theme@master/assets/chevalier-example.png)
+![Chevalier Example](https://cdn.jsdelivr.net/gh/ldatb/chevalier-theme-vscode@master/assets/chevalier-example.png)
 
 ## Color Palette
 | Color&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Use |
@@ -30,6 +30,11 @@ A simple, elegant and beautiful theme for [Visual Studio Code](https://code.visu
 | ![#CE3D66](https://place-hold.it/15/CE3D66/CE3D66?text=+) `#CE3D66` | Pink |
 | ![#6F54A1](https://place-hold.it/15/6F54A1/6F54A1?text=+) `#6F54A1` | Purple |
 | ![#FFF367](https://place-hold.it/15/FFF367/FFF367?text=+) `#FFF367` | Yellow |
+| ![#D99B7C](https://place-hold.it/15/D99B7C/D99B7C?text=+) `#D99B7C` | Lightest Leather |
+| ![#C6733D](https://place-hold.it/15/C6733D/C6733D?text=+) `#C6733D` | Light Leather |
+| ![#97572B](https://place-hold.it/15/97572B/97572B?text=+) `#97572B` | Leather |
+| ![#864C24](https://place-hold.it/15/864C24/864C24?text=+) `#864C24` | Dark Leather |
+| ![#704822](https://place-hold.it/15/704822/704822?text=+) `#704822` | Darkest Leather |
 | ![#EDF1FF](https://place-hold.it/15/EDF1FF/EDF1FF?text=+) `#EDF1FF` | Info |
 | ![#5085C3](https://place-hold.it/15/5085C3/5085C3?text=+) `#5085C3` | Debug |
 | ![#F96815](https://place-hold.it/15/F96815/F96815?text=+) `#F96815` | Warning |
