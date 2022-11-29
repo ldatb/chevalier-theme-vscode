@@ -140,12 +140,17 @@ tokenColors:
 - scope: 
   - punctuation.separator
   - punctuation.definition.separator
-  - punctuation.definition.string
+  # - punctuation.definition.string
   settings:
-    foreground: _cyan
+    foreground: _blue
 - scope: punctuation.definition.arguments
   settings:
     foreground: _pink 
+- scope:
+  - punctuation.definition.string.begin
+  - punctuation.definition.string.end
+  settings:
+    foreground: _lightest-leather 
 
 # --------------------------------------------------
 # Support
