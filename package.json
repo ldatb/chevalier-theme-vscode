@@ -3,7 +3,7 @@
   "displayName": "Chevalier",
   "description": "Chevalier is a unique and beautiful dark color theme.",
   "publisher": "ldatb",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "icon": "assets/chevalier-no-bg.png",
   "engines": {
     "vscode": "^1.73.0"
