@@ -1,10 +1,10 @@
 # Chevalier theme for VS Code
 
-![Chevalier Logo](https://cdn.jsdelivr.net/gh/ldatb/chevalier-theme-vscode@master/assets/chevalier.png)
+![Chevalier Logo](https://cdn.jsdelivr.net/gh/ldatb/chevalier-theme-vscode/assets/chevalier.png)
 
 A simple, elegant and beautiful theme for [Visual Studio Code](https://code.visualstudio.com/). Inspired on leather, nature, and of course, horses.
 
-![Chevalier Example](https://cdn.jsdelivr.net/gh/ldatb/chevalier-theme-vscode@master/assets/chevalier-example.png)
+![Chevalier Example](https://cdn.jsdelivr.net/gh/ldatb/chevalier-theme-vscode/assets/chevalier-example.png)
 
 ## Color Palette
 | Color&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Use |
