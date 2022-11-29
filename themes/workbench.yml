@@ -2,7 +2,7 @@ colors:
   # -----------------------------------------------------------------------------
   # Base Colors
   # -----------------------------------------------------------------------------
-  foreground: _light-steel
+  foreground: _light-gray
   errorForeground: _red
   focusBorder: _darkest-leather
 
