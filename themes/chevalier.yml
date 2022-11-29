@@ -31,6 +31,7 @@ tokenColors:
     foreground: _light-leather
 - scope: 
   - variable.other.constant
+  - variable.other.enummember
   - variable.language.this
   - variable.interpolation
   settings:
@@ -149,6 +150,8 @@ tokenColors:
 - scope:
   - punctuation.definition.string.begin
   - punctuation.definition.string.end
+  - keyword.other.interpolation
+  - meta.interpolation
   settings:
     foreground: _lightest-leather 
 
