@@ -153,10 +153,10 @@ colors:
   # -----------------------------------------------------------------------------
   # Tabs
   # -----------------------------------------------------------------------------
-  tab.activeBackground: _dark-steel
+  tab.activeBackground: _charcoal
   tab.activeForeground: _light-gray
   tab.activeBorder: _leather
-  tab.inactiveBackground: _charcoal
+  tab.inactiveBackground: _dark-steel
   tab.inactiveForeground: _light-steel
 
   # -----------------------------------------------------------------------------

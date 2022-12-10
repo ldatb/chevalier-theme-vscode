@@ -1,5 +1,11 @@
 # Change Log
 
+## [v1.2.0]
+
+### Changed
+
+- Inverted tab.activeBackground and tab.inactiveBackground values.
+
 ## [v1.1.0]
 
 ### Changed
